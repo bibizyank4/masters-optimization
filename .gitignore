@@ -1,0 +1,12 @@
+.venv/
+.idea/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+*.log
+.env
+/runs/
+/comparison/
+/example_results/
+*metadata.json
+environment.txt
